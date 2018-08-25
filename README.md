@@ -1,7 +1,7 @@
 # DailyCode
 
-|         Date        | Day  | Topic      | SubTopics                                                                                                                                                                                             | Source   |
-|:-------------------:|------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
+| Date                | Day  | Topic      | SubTopics                                                                                                                                                                                             | Source   |
+| :-----------------: | ---- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
 | Thursday, 23rd 2018 | Day1 | Algorithms | [02.AddTwoNumbers](https://github.com/suyashchopra19/DailyCode/blob/master/AlgorithmsAndDataStructure/Algo/Leetcode/02.AddTwoNumbers-DONE.js)                                                         | LeetCode |
 |                     |      |            | [03.longestSubstringWithoutRepeatedCharacters](https://github.com/suyashchopra19/DailyCode/blob/master/AlgorithmsAndDataStructure/Algo/Leetcode/03.longestSubstringWithoutRepeatedCharacters-DONE.js) | LeetCode |
 |                     |      |            | [121.BestTimeToBuyAndSellStock](https://github.com/suyashchopra19/DailyCode/blob/master/AlgorithmsAndDataStructure/Algo/Leetcode/121.BestTimeToBuyAndSellStock-DONE.js)                               | LeetCode |
@@ -9,6 +9,7 @@
 |                     |      |            | [346.MovingAverageFromDataStream](https://github.com/suyashchopra19/DailyCode/blob/master/AlgorithmsAndDataStructure/Algo/Leetcode/346.MovingAverageFromDataStream-DONE.js)                           | LeetCode |
 |                     |      |            | [701.InsertIntoBinarySearchTree](https://github.com/suyashchopra19/DailyCode/blob/master/AlgorithmsAndDataStructure/Algo/Leetcode/701.InsertIntoBinarySearchTree-DONE.js)                             | LeetCode |
 | Friday, 24th 2018   | Day2 | Algorithms | [6Kyu.ReplaceWithAlphabetPosition]()                                                                                                                                                                  | CodeWars |
+|                     |      |            | [283.MoveZeros]()                                                                                                                                                                                     | LeetCode |
+|                     |      |            | [27.RemoveElement]()                                                                                                                                                                                  | LeetCode |
+|                     |      |            | [26.RemoveDuplicatesFromSortedArray]()                                                                                                                                                                | LeetCode |
 |                     |      |            |                                                                                                                                                                                                       |          |
-|                     |      |            |                                                                                                                                                                                                       |          |
-|                     |      |            |
