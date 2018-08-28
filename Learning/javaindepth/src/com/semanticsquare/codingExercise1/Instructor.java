@@ -6,23 +6,17 @@ public class Instructor {
     public Book[] books;
 
     public Instructor(long id, String name, String title, String department, Book[] books) {
-        this.id = id;
-        this.name = name;
-        this.title = title;
-        this.department = department;
+        this(id, name,title, department);
         this.books = books;
     }
 
     public Instructor(long id, String name, String title, String department) {
-        this.id = id;
-        this.name = name;
-        this.title = title;
+        this(id, name, title);
         this.department = department;
     }
 
     public Instructor(long id, String name, String title) {
-        this.id = id;
-        this.name = name;
+        this(id, name);
         this.title = title;
     }
 
@@ -32,24 +26,19 @@ public class Instructor {
     }
 
     public String getMostRecentBookTitle() {
-        // String recentBook = "";
-        // recentBook += this.books.title[books.length - 1];
-        // return recentBook;
-        return this.books[this.books.length - 1].title;
+        return books[books.length -1].getTitle();
     }
 
-    public String getTitle(){
-        return this.books[1].title;
+    public Book updateBook(int index, String title) {
+        Book oldBook = new Book(books[index].getTitle());
+        books[index].setTitle(title);
+        return oldBook;
     }
 
-    public String updateBook(int index, String title) {
-        return this.books[index].title = title;
-        // return "Book Updated";
-    }
-
-    public String updateBook(int index, Book book) {
-        this.books[index] = book;
-        // return "Book Array Updated";
+    public Book updateBook(int index, Book book) {
+        Book oldBook = books[index];
+        books[index] = book;
+        return oldBook;
     }
 
     public static void main(String[] args) {
@@ -63,6 +52,6 @@ public class Instructor {
         System.out.println("old book title: " + instructor.updateBook(1, "Effective C#").getTitle());
 
         Book book4 = new Book("Introduction to Data Mining");
-        // System.out.println("old book title: " + instructor.updateBook(1, book4).getTitle());
+        System.out.println("old book title: " + instructor.updateBook(1, book4).getTitle());
     }
 }
