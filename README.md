@@ -37,9 +37,9 @@
 |                      |       |            | [160.IntersectionOfTwoLinkedLists]()                                                                                                                                                                  | LeetCode | [LinkedList]                 |
 |                      |       |            | [206.ReverseALinkedList]()                                                                                                                                                                            | LeetCode | [LinkedList]                 |
 | Friday, 31st 2018    | Day 9 | Algorithms | [74.SearchA2DMatrix]()                                                                                                                                                                                | LeetCode | [Matrix][Array]              |
-|                      |       |            | []()                                                                                                                                                                                    | LeetCode | [DynamicProgramming]         |
-|                      |       |            | []()                                                                                                                                                                  | LeetCode | [LinkedList]                 |
-|                      |       |            | []()                                                                                                                                                                            | LeetCode | [LinkedList]                 |
+|                      |       |            | [56.MergeIntervals]()                                                                                                                                                                                 | LeetCode | [Array]                      |
+|                      |       |            | [9.PalindromeNumber]()                                                                                                                                                                                | LeetCode | []                           |
+| Saturday, 1st 2018   | Day10 | Algorithms | [347.TopKFrequencyElements]()                                                                                                                                                                                                  | LeetCode | [LinkedList]                 |
 
 
 
