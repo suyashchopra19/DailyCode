@@ -35,5 +35,12 @@
 | Thursday, 30th 2018  | Day 8 | Algorithms | [33.SearchInARotatedSortedArray]()                                                                                                                                                                    | LeetCode | [BinarySearch]               |
 |                      |       |            | [70.ClimbStairs]()                                                                                                                                                                                    | LeetCode | [DynamicProgramming]         |
 |                      |       |            | [160.IntersectionOfTwoLinkedLists]()                                                                                                                                                                  | LeetCode | [LinkedList]                 |
-|                      |       |            | [206.ReverseALinkedList]()                                                                                                                                                                               | LeetCode | [LinkedList]                 |
+|                      |       |            | [206.ReverseALinkedList]()                                                                                                                                                                            | LeetCode | [LinkedList]                 |
+| Friday, 31st 2018    | Day 9 | Algorithms | [74.SearchA2DMatrix]()                                                                                                                                                                                | LeetCode | [Matrix][Array]              |
+|                      |       |            | []()                                                                                                                                                                                    | LeetCode | [DynamicProgramming]         |
+|                      |       |            | []()                                                                                                                                                                  | LeetCode | [LinkedList]                 |
+|                      |       |            | []()                                                                                                                                                                            | LeetCode | [LinkedList]                 |
+
+
+
 
