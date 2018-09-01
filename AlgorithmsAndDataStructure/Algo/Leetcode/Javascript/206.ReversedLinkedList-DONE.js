@@ -20,6 +20,7 @@ var reverseList = function (head) {
     return prev;
 };
 
+//https://www.youtube.com/watch?v=4mm39dVLlZ0
 function reverseList(head) {
     if (!head || !head.next) {
         return head;
