@@ -38,9 +38,8 @@
 |                      |       |            | [206.ReverseALinkedList]()                                                                                                                                                                            | LeetCode | [LinkedList]                 |
 | Friday, 31st 2018    | Day 9 | Algorithms | [74.SearchA2DMatrix]()                                                                                                                                                                                | LeetCode | [Matrix][Array]              |
 |                      |       |            | [56.MergeIntervals]()                                                                                                                                                                                 | LeetCode | [Array]                      |
-|                      |       |            | [9.PalindromeNumber]()                                                                                                                                                                                | LeetCode | []                           |
-| Saturday, 1st 2018   | Day10 | Algorithms | [347.TopKFrequencyElements]()                                                                                                                                                                                                  | LeetCode | [LinkedList]                 |
-
-
-
-
+|                      |       |            | [9.PalindromeNumber]()                                                                                                                                                                                | LeetCode | [TwoPointer]                 |
+| Saturday, 1st 2018   | Day10 | Algorithms | [347.TopKFrequencyElements]()                                                                                                                                                                         | LeetCode | [Math]                       |
+|                      |       |            | [230.kthSmallestElementInABST]()                                                                                                                                                                      | LeetCode | [Trees]                      |
+|                      |       |            | [268.MissingNumber]()                                                                                                                                                                                 | LeetCode | [Math]                       |
+|                      |       |            | [136.SingleNumber]()                                                                                                                                                                                  | LeetCode | [Math]                       |
