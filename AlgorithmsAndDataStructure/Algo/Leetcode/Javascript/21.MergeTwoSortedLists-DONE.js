@@ -19,7 +19,7 @@ const mergeTwoLists = (l1,l2) => {
     }
 }
 
-// Iteratvie
+// Iterative
 const mergeTwoLists = (l1,l2) => {
     let list = new ListNode(null);
     let head = list;
