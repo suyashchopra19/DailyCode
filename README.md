@@ -49,5 +49,4 @@
 |                      |       |            | [23.MergeKSortedLists]()                                                                                                                                                                              | LeetCode | [LinkedList],[BinarySearch]   |
 | Monday, 3rd 2018     | Day12 | Algorithms | [821.ShortestDistanceToACharacter]()                                                                                                                                                                  | LeetCode | [DynamicProgramming] -Revisit |
 |                      |       |            | [154.FindMinimumInRotatedSortedArray]()                                                                                                                                                               | LeetCode | [BinarySearch]                |
-
-
+| Wednesday, 5th 2018  | Day13 | Algorithms | [5.LongestPalindromicSubString]()                                                                                                                                                                     | LeetCode | [String]                      |
