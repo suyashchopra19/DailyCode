@@ -26,3 +26,17 @@ const longestSubstringWithoutDuplication = s => {
     }
     return s.slice(longest[0],longest[1])
 }
+
+const longestSubstringWithoutDuplication = s => {
+    let lastSeen = {}
+    let longest = [0,0];
+    let startIdx =0
+    for (let i = 0; i < s.length; i++) {
+        let endIdx = i+1
+        const element = s[i];
+        if(element in lastSeen) startIdx = Math.max(startIdx, lastSeen[element] +1)
+        lastSeen[element] = i
+        if(longest[1] - longest[0] < endIdx - startIdx) longest = [startIdx,endIdx]
+    }
+    return s.slice[longest[0], longest[1]]
+}
