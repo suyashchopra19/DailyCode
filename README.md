@@ -60,4 +60,4 @@
 | Tuesday, 11th 2018   | Day18 | Algorithms | [DiskStacking]()                                                                                                                                                                                      | AlgoExpert | [DynamicProgramming]          |
 |                      |       |            | [442.FindAllDuplicatesInAnArray]()                                                                                                                                                                    | LeetCode   | [DynamicProgramming] -Revisit |
 | Wednesday, 12th 2018 | Day19 | Algorithms | [KadanesAlgorithm]()                                                                                                                                                                                  | AlgoExpert | [DynamicProgramming]          |
-
+| Thursday, 13th 2018  | Day20 | Algorithms | [647.PalindromicSubstring]()                                                                                                                                                                          | LeetCode   | [DynamicProgramming]          |
