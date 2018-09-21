@@ -63,9 +63,11 @@
 | Wednesday, 12th September 2018 | Day19 | Algorithms | [KadanesAlgorithm]()                                                                                                                                                                                  | AlgoExpert | [DynamicProgramming]          |
 | Thursday, 13th September 2018  | Day20 | Algorithms | [647.PalindromicSubstring]()                                                                                                                                                                          | LeetCode   | [DynamicProgramming]          |
 | Friday, 14th September 2018    | Day21 | Algorithms | [PalindromeChecker]()                                                                                                                                                                                 | AlgoExpert | [String]                      |
+| Thursday, 20th September 2018  | Day23 | Algorithms | [MinHeap]()                                                                                                                                                                                           | AlgoExpert | [Heap]                        |
 
 ## Java
 
-| Date                           | Day   | Topic       | Source | Tags          |
-| :----------------------------: | ----- | ----------- | ------ | ------------- |
-| Wednesday, 19th September 2018 | Day22 | ControlFlow | Udemy  | java-in-depth |
+| Date                           | Day   | Topic              | Source | Tags          |
+| :----------------------------: | ----- | ------------------ | ------ | ------------- |
+| Wednesday, 19th September 2018 | Day22 | ControlFlow        | Udemy  | java-in-depth |
+| Thursday, 20th September 2018  | Day23 | Object and Classes | UCB    | 61B           |
