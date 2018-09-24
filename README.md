@@ -64,6 +64,10 @@
 | Thursday, 13th September 2018  | Day20 | Algorithms | [647.PalindromicSubstring]()                                                                                                                                                                          | LeetCode   | [DynamicProgramming]          |
 | Friday, 14th September 2018    | Day21 | Algorithms | [PalindromeChecker]()                                                                                                                                                                                 | AlgoExpert | [String]                      |
 | Thursday, 20th September 2018  | Day23 | Algorithms | [MinHeap]()                                                                                                                                                                                           | AlgoExpert | [Heap]                        |
+| Sunday, 23th September 2018    | Day24 | Algorithms | [64.MinimumSumPath]()                                                                                                                                                                                 | LeetCode   | [DynamicProgramming]          |
+|                                |       |            | [236.LowestCommonAncestor]()                                                                                                                                                                          | LeetCode   | [BinarySearchTree]          |
+
+
 
 ## Java
 

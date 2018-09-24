@@ -10,7 +10,7 @@ def hi(name="yasoob"):
     else:
         return welcome
 
-a = hi('Suyash')
+a = hi()
 print(a)
 #outputs: <function greet at 0x7f2143c01500>
 
