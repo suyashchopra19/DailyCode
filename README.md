@@ -66,9 +66,10 @@
 | Thursday, 20th September 2018  | Day23 | Algorithms | [MinHeap]()                                                                                                                                                                                           | AlgoExpert | [Heap]                        |
 | Sunday, 23th September 2018    | Day24 | Algorithms | [64.MinimumSumPath]()                                                                                                                                                                                 | LeetCode   | [DynamicProgramming]          |
 |                                |       |            | [236.LowestCommonAncestor]()                                                                                                                                                                          | LeetCode   | [BinarySearchTree]            |
-| Sunday, 24th September 2018    | Day25 | Algorithms | [461.HammingDistance]()                                                                                                                                                                               | LeetCode   | [Math]                        |
-|                                |       |            | [138.CopyListWithRandomPointer]()                                                                                                                                                                                                  | LeetCode   | [LinkedList]            |
-
+| Monday, 24th September 2018    | Day25 | Algorithms | [461.HammingDistance]()                                                                                                                                                                               | LeetCode   | [Math]                        |
+|                                |       |            | [138.CopyListWithRandomPointer]()                                                                                                                                                                     | LeetCode   | [LinkedList]                  |
+| Tuesday, 25th September 2018   | Day26 | Algorithms | [7Kyu.GetMiddleCharacter]()                                                                                                                                                                           | CodeWars   | [Math]                        |
+|                                |       |            | [Permutations]()                                                                                                                                                                                      | AlgoExpert | [String] - Revisit            |
 
 
 ## Java
