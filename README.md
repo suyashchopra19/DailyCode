@@ -71,7 +71,8 @@
 | Tuesday, 25th September 2018   | Day26 | Algorithms | [7Kyu.GetMiddleCharacter]()                                                                                                                                                                           | CodeWars   | [Math]                        |
 |                                |       |            | [Permutations]()                                                                                                                                                                                      | AlgoExpert | [String] - Revisit            |
 | Wednesday, 26th September 2018 | Day27 | Algorithms | [58.LengthOfLastWord]()                                                                                                                                                                               | LeetCode   | [String]                      |
-|                                |       |            | [Permutations]()                                                                                                                                                                                      | AlgoExpert | [String] - Revisit            |
+| Thursday, 27th September 2018  | Day28 | Algorithms | [MaxSubsetSumNoAdjecent]()                                                                                                                                                                            | AlgoExpert | [DynamicProgeamming]          |
+| Friday, 28th September 2018    | Day29 | Algorithms | [MinNumberOfCoinsForChange]()                                                                                                                                                                         | AlgoExpert | [DynamicProgeamming]          |
 
 
 ## Java
@@ -80,3 +81,11 @@
 | :----------------------------: | ----- | ------------------ | ------ | ------------- |
 | Wednesday, 19th September 2018 | Day22 | ControlFlow        | Udemy  | java-in-depth |
 | Thursday, 20th September 2018  | Day23 | Object and Classes | UCB    | 61B           |
+
+
+## Javascript
+
+| Date                        | Day   | Topic   | Source          | Tags                           |
+| :-------------------------: | ----- | ------- | --------------- | ------------------------------ |
+| Friday, 28th September 2018 | Day29 | Testing | FrontEndMasters | Testing React Applications, v2 |
+
