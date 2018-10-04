@@ -1,6 +1,6 @@
 import java.awt.*;
 
-public class Car{
+public class Car {
     int averageMilesPerGallon;
     String licensePlate;
     Color paintColor;

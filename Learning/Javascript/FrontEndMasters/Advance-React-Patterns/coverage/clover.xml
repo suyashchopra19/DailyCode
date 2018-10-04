@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1537022898112" clover="3.2.0">
+  <project timestamp="1537022898112" name="All files">
+    <metrics statements="343" coveredstatements="312" conditionals="212" coveredconditionals="165" methods="271" coveredmethods="231" elements="826" coveredelements="708" complexity="0" loc="343" ncloc="343" packages="1" files="14" classes="14">
+      <file name="01.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/01.js">
+        <metrics statements="8" coveredstatements="7" conditionals="1" coveredconditionals="0" methods="6" coveredmethods="5"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="stmt"/>
+        <line num="20" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+      <file name="02.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/02.js">
+        <metrics statements="11" coveredstatements="10" conditionals="5" coveredconditionals="4" methods="10" coveredmethods="9"/>
+        <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="19" count="2" type="stmt"/>
+        <line num="20" count="6" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="31" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+      </file>
+      <file name="03.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/03.js">
+        <metrics statements="14" coveredstatements="13" conditionals="5" coveredconditionals="4" methods="13" coveredmethods="11"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="19" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="25" count="2" type="stmt"/>
+        <line num="34" count="1" type="stmt"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="49" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="61" count="1" type="stmt"/>
+      </file>
+      <file name="04.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/04.js">
+        <metrics statements="9" coveredstatements="8" conditionals="5" coveredconditionals="4" methods="8" coveredmethods="7"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="20" count="4" type="stmt"/>
+        <line num="25" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="27" count="2" type="stmt"/>
+        <line num="30" count="4" type="stmt"/>
+        <line num="42" count="1" type="stmt"/>
+      </file>
+      <file name="05.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/05.js">
+        <metrics statements="9" coveredstatements="8" conditionals="3" coveredconditionals="2" methods="8" coveredmethods="7"/>
+        <line num="9" count="2" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="14" count="4" type="stmt"/>
+        <line num="24" count="4" type="stmt"/>
+        <line num="29" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="31" count="2" type="stmt"/>
+        <line num="34" count="4" type="stmt"/>
+        <line num="45" count="1" type="stmt"/>
+      </file>
+      <file name="06.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/06.js">
+        <metrics statements="13" coveredstatements="11" conditionals="7" coveredconditionals="4" methods="13" coveredmethods="11"/>
+        <line num="6" count="12" type="stmt"/>
+        <line num="7" count="6" type="cond" truecount="2" falsecount="0"/>
+        <line num="12" count="3" type="stmt"/>
+        <line num="13" count="3" type="stmt"/>
+        <line num="14" count="3" type="stmt"/>
+        <line num="16" count="12" type="cond" truecount="0" falsecount="1"/>
+        <line num="22" count="6" type="stmt"/>
+        <line num="29" count="6" type="stmt"/>
+        <line num="34" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="35" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="37" count="3" type="stmt"/>
+        <line num="40" count="6" type="stmt"/>
+        <line num="57" count="1" type="stmt"/>
+      </file>
+      <file name="07.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/07.js">
+        <metrics statements="16" coveredstatements="14" conditionals="6" coveredconditionals="4" methods="17" coveredmethods="14"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="7" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="18" count="1" type="stmt"/>
+        <line num="21" count="2" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="25" count="5" type="cond" truecount="0" falsecount="1"/>
+        <line num="31" count="5" type="stmt"/>
+        <line num="39" count="5" type="stmt"/>
+        <line num="45" count="0" type="cond" truecount="0" falsecount="1"/>
+        <line num="46" count="0" type="cond" truecount="1" falsecount="0"/>
+        <line num="48" count="2" type="stmt"/>
+        <line num="55" count="5" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+        <line num="64" count="1" type="stmt"/>
+      </file>
+      <file name="08.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/08.js">
+        <metrics statements="28" coveredstatements="25" conditionals="15" coveredconditionals="12" methods="23" coveredmethods="19"/>
+        <line num="6" count="20" type="stmt"/>
+        <line num="7" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="18" count="9" type="stmt"/>
+        <line num="21" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="25" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="29" count="9" type="cond" truecount="1" falsecount="1"/>
+        <line num="35" count="1" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
+        <line num="39" count="8" type="stmt"/>
+        <line num="40" count="8" type="stmt"/>
+        <line num="41" count="8" type="stmt"/>
+        <line num="43" count="20" type="cond" truecount="0" falsecount="1"/>
+        <line num="49" count="20" type="stmt"/>
+        <line num="57" count="20" type="stmt"/>
+        <line num="63" count="0" type="stmt"/>
+        <line num="64" count="0" type="stmt"/>
+        <line num="69" count="8" type="stmt"/>
+        <line num="72" count="8" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="76" count="1" type="stmt"/>
+        <line num="79" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="80" count="3" type="stmt"/>
+        <line num="82" count="6" type="stmt"/>
+        <line num="85" count="11" type="stmt"/>
+        <line num="86" count="11" type="stmt"/>
+        <line num="93" count="20" type="stmt"/>
+        <line num="116" count="1" type="stmt"/>
+      </file>
+      <file name="09.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/09.js">
+        <metrics statements="33" coveredstatements="30" conditionals="19" coveredconditionals="16" methods="25" coveredmethods="21"/>
+        <line num="6" count="22" type="stmt"/>
+        <line num="7" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="0" type="stmt"/>
+        <line num="26" count="10" type="stmt"/>
+        <line num="29" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="33" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="36" count="10" type="stmt"/>
+        <line num="39" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="44" count="1" type="stmt"/>
+        <line num="46" count="1" type="stmt"/>
+        <line num="49" count="9" type="stmt"/>
+        <line num="50" count="9" type="stmt"/>
+        <line num="51" count="9" type="stmt"/>
+        <line num="53" count="22" type="cond" truecount="0" falsecount="1"/>
+        <line num="54" count="8" type="stmt"/>
+        <line num="59" count="22" type="stmt"/>
+        <line num="67" count="22" type="stmt"/>
+        <line num="73" count="0" type="stmt"/>
+        <line num="74" count="0" type="stmt"/>
+        <line num="79" count="9" type="stmt"/>
+        <line num="82" count="9" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="89" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="90" count="1" type="stmt"/>
+        <line num="92" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="93" count="3" type="stmt"/>
+        <line num="95" count="6" type="stmt"/>
+        <line num="98" count="12" type="stmt"/>
+        <line num="99" count="12" type="stmt"/>
+        <line num="107" count="22" type="stmt"/>
+        <line num="117" count="1" type="stmt"/>
+        <line num="134" count="1" type="stmt"/>
+      </file>
+      <file name="10-primer.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/10-primer.js">
+        <metrics statements="14" coveredstatements="14" conditionals="4" coveredconditionals="4" methods="8" coveredmethods="8"/>
+        <line num="9" count="14" type="stmt"/>
+        <line num="12" count="11" type="stmt"/>
+        <line num="17" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="29" count="8" type="stmt"/>
+        <line num="30" count="8" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="40" count="3" type="stmt"/>
+        <line num="41" count="3" type="stmt"/>
+        <line num="42" count="3" type="stmt"/>
+        <line num="58" count="1" type="stmt"/>
+      </file>
+      <file name="10.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/10.js">
+        <metrics statements="47" coveredstatements="43" conditionals="33" coveredconditionals="23" methods="34" coveredmethods="30"/>
+        <line num="6" count="12" type="stmt"/>
+        <line num="7" count="16" type="cond" truecount="2" falsecount="0"/>
+        <line num="15" count="10" type="stmt"/>
+        <line num="24" count="64" type="stmt"/>
+        <line num="27" count="54" type="stmt"/>
+        <line num="29" count="54" type="cond" truecount="1" falsecount="1"/>
+        <line num="30" count="54" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="54" type="stmt"/>
+        <line num="41" count="10" type="stmt"/>
+        <line num="43" count="10" type="stmt"/>
+        <line num="46" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="51" count="10" type="stmt"/>
+        <line num="55" count="10" type="stmt"/>
+        <line num="57" count="10" type="stmt"/>
+        <line num="60" count="10" type="cond" truecount="1" falsecount="1"/>
+        <line num="61" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="67" count="10" type="stmt"/>
+        <line num="71" count="10" type="cond" truecount="2" falsecount="2"/>
+        <line num="77" count="10" type="stmt"/>
+        <line num="81" count="10" type="stmt"/>
+        <line num="86" count="1" type="stmt"/>
+        <line num="88" count="1" type="stmt"/>
+        <line num="91" count="9" type="stmt"/>
+        <line num="92" count="9" type="stmt"/>
+        <line num="93" count="9" type="stmt"/>
+        <line num="95" count="12" type="cond" truecount="0" falsecount="1"/>
+        <line num="96" count="8" type="stmt"/>
+        <line num="101" count="22" type="stmt"/>
+        <line num="109" count="12" type="stmt"/>
+        <line num="115" count="0" type="stmt"/>
+        <line num="116" count="0" type="stmt"/>
+        <line num="121" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="122" count="1" type="stmt"/>
+        <line num="123" count="1" type="stmt"/>
+        <line num="125" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="126" count="1" type="stmt"/>
+        <line num="127" count="1" type="stmt"/>
+        <line num="129" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="130" count="8" type="stmt"/>
+        <line num="131" count="8" type="stmt"/>
+        <line num="136" count="8" type="stmt"/>
+        <line num="142" count="12" type="stmt"/>
+        <line num="143" count="12" type="stmt"/>
+        <line num="150" count="12" type="stmt"/>
+        <line num="160" count="1" type="stmt"/>
+        <line num="177" count="1" type="stmt"/>
+      </file>
+      <file name="11.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/11.js">
+        <metrics statements="49" coveredstatements="45" conditionals="45" coveredconditionals="37" methods="41" coveredmethods="34"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="31" count="0" type="stmt"/>
+        <line num="33" count="0" type="stmt"/>
+        <line num="36" count="2" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="2" type="stmt"/>
+        <line num="40" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="41" count="1" type="stmt"/>
+        <line num="53" count="32" type="stmt"/>
+        <line num="56" count="6" type="stmt"/>
+        <line num="58" count="24" type="cond" truecount="1" falsecount="1"/>
+        <line num="59" count="0" type="stmt"/>
+        <line num="61" count="24" type="stmt"/>
+        <line num="63" count="24" type="stmt"/>
+        <line num="70" count="2" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="75" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="80" count="2" type="stmt"/>
+        <line num="84" count="2" type="stmt"/>
+        <line num="86" count="2" type="stmt"/>
+        <line num="89" count="8" type="cond" truecount="1" falsecount="1"/>
+        <line num="90" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="96" count="8" type="stmt"/>
+        <line num="100" count="2" type="cond" truecount="2" falsecount="2"/>
+        <line num="106" count="2" type="stmt"/>
+        <line num="107" count="2" type="stmt"/>
+        <line num="119" count="4" type="stmt"/>
+        <line num="121" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="122" count="4" type="stmt"/>
+        <line num="131" count="1" type="stmt"/>
+        <line num="134" count="2" type="stmt"/>
+        <line num="153" count="1" type="stmt"/>
+        <line num="157" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="162" count="2" type="stmt"/>
+        <line num="174" count="1" type="stmt"/>
+        <line num="183" count="1" type="stmt"/>
+        <line num="185" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="191" count="1" type="stmt"/>
+        <line num="195" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="204" count="1" type="stmt"/>
+        <line num="208" count="2" type="stmt"/>
+        <line num="220" count="2" type="stmt"/>
+        <line num="234" count="1" type="stmt"/>
+        <line num="243" count="1" type="stmt"/>
+        <line num="252" count="1" type="stmt"/>
+      </file>
+      <file name="12.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/12.js">
+        <metrics statements="54" coveredstatements="50" conditionals="47" coveredconditionals="37" methods="44" coveredmethods="37"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="15" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="1" type="stmt"/>
+        <line num="32" count="0" type="stmt"/>
+        <line num="34" count="0" type="stmt"/>
+        <line num="37" count="1" type="stmt"/>
+        <line num="38" count="1" type="stmt"/>
+        <line num="39" count="1" type="stmt"/>
+        <line num="41" count="2" type="cond" truecount="0" falsecount="1"/>
+        <line num="42" count="1" type="stmt"/>
+        <line num="54" count="20" type="stmt"/>
+        <line num="57" count="4" type="stmt"/>
+        <line num="59" count="16" type="cond" truecount="1" falsecount="1"/>
+        <line num="60" count="0" type="stmt"/>
+        <line num="62" count="16" type="stmt"/>
+        <line num="64" count="16" type="stmt"/>
+        <line num="71" count="1" type="stmt"/>
+        <line num="73" count="1" type="stmt"/>
+        <line num="76" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="81" count="1" type="stmt"/>
+        <line num="85" count="1" type="stmt"/>
+        <line num="87" count="1" type="stmt"/>
+        <line num="90" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="91" count="4" type="cond" truecount="2" falsecount="0"/>
+        <line num="97" count="4" type="stmt"/>
+        <line num="101" count="1" type="cond" truecount="2" falsecount="2"/>
+        <line num="107" count="1" type="stmt"/>
+        <line num="108" count="1" type="stmt"/>
+        <line num="113" count="2" type="stmt"/>
+        <line num="115" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="116" count="2" type="stmt"/>
+        <line num="126" count="1" type="stmt"/>
+        <line num="129" count="2" type="stmt"/>
+        <line num="134" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="136" count="1" type="stmt"/>
+        <line num="145" count="1" type="stmt"/>
+        <line num="152" count="2" type="stmt"/>
+        <line num="162" count="1" type="stmt"/>
+        <line num="165" count="2" type="stmt"/>
+        <line num="184" count="1" type="stmt"/>
+        <line num="188" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="193" count="2" type="stmt"/>
+        <line num="205" count="1" type="stmt"/>
+        <line num="218" count="1" type="stmt"/>
+        <line num="225" count="1" type="stmt"/>
+        <line num="229" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="240" count="1" type="stmt"/>
+        <line num="244" count="2" type="stmt"/>
+        <line num="256" count="2" type="stmt"/>
+        <line num="270" count="1" type="stmt"/>
+        <line num="279" count="1" type="stmt"/>
+        <line num="288" count="1" type="stmt"/>
+      </file>
+      <file name="13.js" path="/Users/schopra/Desktop/DailyCode/Learning/Javascript/FrontEndMasters/Advance-React-Patterns/advanced-react-patterns-v2/src/exercises-final/13.js">
+        <metrics statements="38" coveredstatements="34" conditionals="17" coveredconditionals="14" methods="21" coveredmethods="18"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="18" count="5" type="cond" truecount="2" falsecount="0"/>
+        <line num="19" count="1" type="stmt"/>
+        <line num="21" count="4" type="stmt"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="31" count="4" type="stmt"/>
+        <line num="37" count="0" type="stmt"/>
+        <line num="46" count="4" type="stmt"/>
+        <line num="48" count="4" type="cond" truecount="1" falsecount="1"/>
+        <line num="49" count="4" type="stmt"/>
+        <line num="60" count="4" type="stmt"/>
+        <line num="61" count="4" type="stmt"/>
+        <line num="64" count="4" type="stmt"/>
+        <line num="70" count="1" type="cond" truecount="2" falsecount="0"/>
+        <line num="72" count="1" type="stmt"/>
+        <line num="73" count="4" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="79" count="4" type="stmt"/>
+        <line num="82" count="4" type="stmt"/>
+        <line num="89" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="90" count="0" type="stmt"/>
+        <line num="94" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="95" count="1" type="stmt"/>
+        <line num="100" count="2" type="stmt"/>
+        <line num="112" count="4" type="stmt"/>
+        <line num="115" count="4" type="stmt"/>
+        <line num="124" count="0" type="stmt"/>
+        <line num="136" count="1" type="stmt"/>
+        <line num="137" count="4" type="stmt"/>
+        <line num="148" count="1" type="stmt"/>
+        <line num="152" count="4" type="cond" truecount="3" falsecount="0"/>
+        <line num="154" count="1" type="stmt"/>
+        <line num="159" count="2" type="stmt"/>
+        <line num="164" count="1" type="stmt"/>
+        <line num="169" count="4" type="stmt"/>
+        <line num="179" count="1" type="stmt"/>
+      </file>
+    </metrics>
+  </project>
+</coverage>

@@ -2,6 +2,16 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BeerSong",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "BeerSong",
+            "args": ""
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - instanceVar",
             "request": "launch",
             "cwd": "${workspaceFolder}",
