@@ -76,6 +76,7 @@
 | Monday, 1st October 2018       | Day30 | Algorithms | [ConvertArrayIntoZigZagFashion]()                                                                                                                                                                     | GeeksForGeeks            | [Array]                       |
 | Tuesday, 2nd October 2018      | Day31 | Algorithms | [WeightedJobScheduling]()                                                                                                                                                                             | GeeksForGeeks            | [DynamicProgramming]          |
 | Wedneday, 3rd October 2018     | Day32 | Algorithms | [MinNumberOfJumps]()                                                                                                                                                                                  | GeeksForGeeks/AlgoExpert | [DynamicProgramming]- Revisit |
+| Thursday, 4rd October 2018     | Day33 | Algorithms | [740.EarnAndDelete]()                                                                                                                                                                                 | LeetCode                 | [DynamicProgramming]          |
 
 
 ## Java
