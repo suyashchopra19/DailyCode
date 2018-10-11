@@ -77,6 +77,7 @@
 | Tuesday, 2nd October 2018      | Day31 | Algorithms | [WeightedJobScheduling]()                                                                                                                                                                             | GeeksForGeeks            | [DynamicProgramming]          |
 | Wedneday, 3rd October 2018     | Day32 | Algorithms | [MinNumberOfJumps]()                                                                                                                                                                                  | GeeksForGeeks/AlgoExpert | [DynamicProgramming]- Revisit |
 | Thursday, 4rd October 2018     | Day33 | Algorithms | [740.EarnAndDelete]()                                                                                                                                                                                 | LeetCode                 | [DynamicProgramming]          |
+| Wednesday, 10th October 2018   | Day34 | Algorithms | [PowerSet]()                                                                                                                                                                                          | AlgoExpert               | [Math]                        |
 
 
 ## Java
